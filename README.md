@@ -6,7 +6,7 @@ My research work in physics was primarily on the study of formal aspects of Quan
 
 ## Links
 
-You can find my Linkedin profile <a href="https://www.linkedin.com/in/david-meltzer-12a72162/">here</a> and my Huggingface profile <a href="https://huggingface.co/dhmeltzer">here</a>.
+You can find my Linkedin profile <a href="https://www.linkedin.com/in/david-meltzer-12a72162/">here</a>. A few examples of Weights and Biases reports I have written can be found at the following links, <a href="https://wandb.ai/dmeltzer/gutenberg/reports/Copy-of-Visualizing-Literature-using-Transformers--Vmlldzo1NzU5NjU0">[1]</a>, <a href="https://wandb.ai/dmeltzer/Question_Generation/reports/Learning-to-Ask-Scientific-Questions--Vmlldzo0MjMxMzE1">[2]</a>, <a href="https://wandb.ai/dmeltzer/mlops-course-assgn3/reports/Sentiment-Analysis-on-Goodreads-Reviews-Part-3---VmlldzozNzYxODkz">[3]</a>. More details can be found in my repositories.
 
 A full list of my research publications can be found on <a href="https://scholar.google.com/citations?hl=en&user=jkez7jMAAAAJ">Google scholar</a> or on <a href="https://inspirehep.net/authors/1430989?ui-citation-summary=true">InspireHEP</a>.
  
