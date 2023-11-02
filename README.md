@@ -41,6 +41,17 @@ I have completed a few projects in machine learning which I will summarize below
  <li>We also experimentally demonstrated that training ReLU nets with a large learning rate causes their activation map to become sparse. We conjecture that this sparsity is also important in explaining why increasing the learning rate causes the generalization, or test, loss to decrease.</li>
 </ul>
 
+<a href="https://github.com/david-meltzer/LLMs">**Training a Llama-2 Model on Safe Simple Text**</a>
+<ul>
+ <li>
+  This project is a work-in-progress and will be continually updated as we get new results. The main goal of this work is to train Llama-2 models such that they answer questions in a safe and simple way. That is, the model should not produce toxic content and its explanation should be understandable to as many people as possible.
+ </li>
+ <li>
+  To accomplish this, we train Llama-2 models with supervised fine-tuning on question/answer posts that have been filtered for simplicity using Flesch-Kincaid readability metrics and for toxicity using a fine-tuned RoBERTa model. Given the size of the model, we train it using QLORA, which is a form of parameter-efficient fine-tuning (PEFT). In practice, we form the dataset by either generating synthetic questions from Wikipedia articles using GPT-3.5 and by filtering an existing dataset of Reddit posts.
+ </li>
+ <li>Our current results are summarized in a repot which can be downloaded <a href="https://github.com/david-meltzer/LLMs/blob/main/report/summary.pdf">here</a>. We observe that the fine-tuned models perform competitively we similarly sized models on the Huggingface <a="https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard">leaderboard</a> and that the fine-tuned models do produce simpler text according to our readability metrics.</li>
+ <li> In the future, we will further explore how to train QA models such that they are aligned with human preferences, e.g. by using reinforcement learning from human feedback (RLHF) and direct preference optimization (DPO).</li>
+</ul>
  
 <!--
 **david-meltzer/david-meltzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
