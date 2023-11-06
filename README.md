@@ -52,6 +52,25 @@ I have completed a few projects in machine learning which I will summarize below
  <li>Our current results are summarized in a repot which can be downloaded <a href="https://github.com/david-meltzer/LLMs/blob/main/report/summary.pdf">here</a>. We observe that the fine-tuned models perform competitively we similarly sized models on the Huggingface <a="https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard">leaderboard</a> and that the fine-tuned models do produce simpler text according to our readability metrics.</li>
  <li> In the future, we will further explore how to train QA models such that they are aligned with human preferences, e.g. by using reinforcement learning from human feedback (RLHF) and direct preference optimization (DPO).</li>
 </ul>
+
+# Courses
+
+Some of my Github repositories contain solutions to courses I have completed. 
+
+<a href="https://github.com/david-meltzer/ML_finance">**ML Finance**</a>
+
+<ul>
+ <li>In this repository you can find solutions to some assignments of a course on <a href="https://www.coursera.org/learn/reinforcement-learning-in-finance?specialization=machine-learning-reinforcement-finance">Reinforcement Learning in Finance</a>. Specifically, I included the solutions to the assignments specifically focused on using reinforcement learning to price European options.</li>
+ <li>This repository also contains some personal projects, looking at topics such as clustering, pair trading, and eigenportfolios for US equities. These assignments are inspired from this nice <a href="https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715">textbook</a> by Stefan Jansen.</li>
+ <li>Finally, you can also find a notebook studying credit card fraud using various classification algorithms, including logistic regression, random forests, and Gaussian Naive Bayes. The original credit dataset can be found on <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud">Kaggle</a>.</li>
+</ul>
+
+**Stanford Courses: <a href="https://github.com/david-meltzer/CS_224n">CS224n</a> and <a href="https://github.com/david-meltzer/CS_231n">CS 231n</a>**
+<ul>
+ <li>
+  These two repositories contain the solutions to assignments from Stanford's computer science courses on natural language processing (CS224n) and computer vision (CS231n).
+ </li>
+</ul>
  
 <!--
 **david-meltzer/david-meltzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
