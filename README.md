@@ -13,7 +13,7 @@ I have completed a few projects in machine learning which I will summarize below
 <a href="https://github.com/david-meltzer/Longform-Question-Generation">**Scientific Question Generation**</a>
 <ul>
  <li>Here I looked at training encoder-decoder transformer models to produce questions from scientific text. This project was inspired by this <a href="https://arxiv.org/abs/2210.11536">paper</a>.</li>
- <li>I wrote two Weights and Biases reports (see <a href="https://api.wandb.ai/links/dmeltzer/7an677es">1</a> and <a href="https://api.wandb.ai/links/dmeltzer/7an677es">2</a>) where I performed exploratory data analysis for the dataset, explained the architecture of the models and how they are trained, and compared the performance of the fine-tuned models with the zero-shot performance of larger foundation models, such as GPT-3.5 and FLAN-T5-XXL.
+ <li>I wrote two Weights and Biases reports (see <a href="https://wandb.ai/dmeltzer/Question_Generation/reports/Exploratory-Data-Analysis-for-r-AskScience--Vmlldzo0MjQwODg1?accessToken=fndbu2ar26mlbzqdphvb819847qqth2bxyi4hqhugbnv97607mj01qc7ed35v6w8">1</a> and <a href="https://api.wandb.ai/links/dmeltzer/7an677es">2</a>) where I performed exploratory data analysis for the dataset, explained the architecture of the models and how they are trained, and compared the performance of the fine-tuned models with the zero-shot performance of larger foundation models, such as GPT-3.5 and FLAN-T5-XXL.
  </li>
  <li>
   I wrote two Streamlit applications which are hosted on Huggingface. The first application <a href="https://huggingface.co/spaces/dhmeltzer/qg_generation">generates questions</a> using both the fine-tuned BART-large models as well as the GPT-3.5 and FLAN-T5-XXL models. The fine-tuned models are deployed on AWS. The second application allows users to perform a <a href="https://huggingface.co/spaces/dhmeltzer/semantic">semantic search</a> over the dataset.
@@ -31,7 +31,7 @@ I have completed a few projects in machine learning which I will summarize below
 <ul>
  <li>Here I used SentenceTransformer models to visualize different works of literature. Specifically, I looked at visualizing three books by James Joyce, "Dubliners", "Portrait of the Artist as a Young Man" and "Ulysses" as well as three different translations of Homer's "The Odyssey".</li>
  <li>I embedded sentences from these books into a high-dimensional vector space and visualized how sentences from different chapters are related using a heat-map and the dimensionality-reduction methods, t-SNE and UMAP. These plots are interactive so users can see which chapters are "closest" to each other. </li>
- <li>The results of this analysis is summarized in the following Weights and Biases <a href="https://wandb.ai/dmeltzer/gutenberg/reports/Copy-of-Visualizing-Literature-using-Transformers--Vmlldzo1NzU5NjU0">report</a>, where I also reviewed the training procedure for SentenceTransformer models. </li>
+ <li>The results of this analysis is summarized in the following Weights and Biases <a href="https://wandb.ai/dmeltzer/gutenberg/reports/Visualizing-Literature-using-Transformers--Vmlldzo0MTIyODEx?accessToken=1ekch7p12170nvwbtqzvy2g3shpyyboajfbalciun3ly913cdv033je1rvkoa5bj">report</a>, where I also reviewed the training procedure for SentenceTransformer models. </li>
 </ul>
 
 <a href="https://github.com/david-meltzer/quadratic_model">**Quadratic Models and the Catapult Mechanism**</a>
