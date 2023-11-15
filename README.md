@@ -31,7 +31,7 @@ I have completed a few projects in machine learning which I will summarize below
 <ul>
  <li>Here I used SentenceTransformer models to visualize different works of literature. Specifically, I looked at visualizing three books by James Joyce, "Dubliners", "Portrait of the Artist as a Young Man" and "Ulysses" as well as three different translations of Homer's "The Odyssey".</li>
  <li>I embedded sentences from these books into a high-dimensional vector space and visualized how sentences from different chapters are related using a heat-map and the dimensionality-reduction methods, t-SNE and UMAP. These plots are interactive so users can see which chapters are "closest" to each other. </li>
- <li>The results of this analysis is summarized in the following Weights and Biases <a href="https://wandb.ai/dmeltzer/gutenberg/reports/Visualizing-Literature-using-Transformers--Vmlldzo0MTIyODEx?accessToken=1ekch7p12170nvwbtqzvy2g3shpyyboajfbalciun3ly913cdv033je1rvkoa5bj">report</a>, where I also reviewed the training procedure for SentenceTransformer models. </li>
+ <li>The results of this analysis is summarized in the following Weights and Biases <a href="https://wandb.ai/dmeltzer/gutenberg/reports/Visualizing-Literature-using-AI--Vmlldzo1NzU5NjU0?accessToken=bl2wzwn60hdzls6uhpk83npcg0ks8h7tpo4udf3tc59cdr14qxt2qbsv0ccjc5r5">report</a>, where I also reviewed the training procedure for SentenceTransformer models. </li>
 </ul>
 
 <a href="https://github.com/david-meltzer/quadratic_model">**Quadratic Models and the Catapult Mechanism**</a>
