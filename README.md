@@ -2,7 +2,7 @@
 
 Hi, my name is David Meltzer and I am a postdoctoral researcher in theoretical physics at Cornell University. 
 
-My research work in physics was primarily on the study of formal aspects of Quantum Field Theory (QFT) and the AdS/CFT correspondence. Currently, I am interested in various aspects of Machine Learning (ML), including Natural Language Processing, Computer Vision, and how lessons from physics can be used to understand large neural nets. For more information, please see my Linkedin profile <a href="https://www.linkedin.com/in/david-meltzer-12a72162/">here</a>. A full list of my research publications can be found on <a href="https://scholar.google.com/citations?hl=en&user=jkez7jMAAAAJ">Google scholar</a> or on <a href="https://inspirehep.net/authors/1430989?ui-citation-summary=true">InspireHEP</a>. 
+My research work in physics was primarily on the study of formal aspects of Quantum Field Theory (QFT) and the AdS/CFT correspondence. Currently, I am interested in various aspects of Machine Learning (ML), including Natural Language Processing, Computer Vision, and how lessons from physics can be used to understand large neural nets. For more information, please see my Linkedin profile <a href="https://www.linkedin.com/in/david-meltzer/">here</a>. A full list of my research publications can be found on <a href="https://scholar.google.com/citations?hl=en&user=jkez7jMAAAAJ">Google scholar</a> or on <a href="https://inspirehep.net/authors/1430989?ui-citation-summary=true">InspireHEP</a>. 
 
 Please feel free to reach out to me on Linkedin if you have any questions about my work or have any issues accessing the reports and applications which are detailed below.
 
